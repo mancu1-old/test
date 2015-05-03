@@ -1,0 +1,13 @@
+﻿Kak zvali cobaky v rackaze mu-mu
+-cobaka
++mu-mu
+-gav-gav
+-не правда!
++му-му
+#
+Chto y cdelal?
+-yjac
++programmy
+-chto-to
++тесты
++програмка
